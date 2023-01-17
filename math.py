@@ -4,7 +4,7 @@ def add(x,y):
 
 #subtract implementation
 def subtract(x,y):
-    pass
+    return x-y #implementation on bug456
     
 #multiply implementation
 def multiply(x,y):
